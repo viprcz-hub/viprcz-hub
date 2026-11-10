@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there, I'm Vipul 👋
 
-<!--
-**viprcz-hub/viprcz-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Vipul Roy"
+        self.role = "Software Engineer & Tooling Enthusiast"
+        self.interests = ["Developer Experience", "Agentic Systems", "Distributed Backend"]
+        self.languages = ["Python", "Go", "TypeScript", "Rust", "Shell"]
 
-Here are some ideas to get you started:
+    def current_focus(self):
+        return "Building resilient tools and exploring modern software engineering systems."
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔭 What I'm working on
+- Developing lightweight developer productivity CLI tools and workflow orchestrators
+- Deep-diving into high-throughput backend services and agent frameworks
+- Experimenting with modern build systems and deterministic testing pipelines
+
+#### 🛠️ Tech & Tools
+- **Languages:** Python, Go, TypeScript, Rust, Bash
+- **Frameworks & Libs:** FastAPI, Gin, React, Next.js, PyTorch
+- **Infra & DevOps:** Docker, Kubernetes, Linux, GitHub Actions, Redis, PostgreSQL
+
+---
+
+*“Simplicity is prerequisite for reliability.” — Edsger W. Dijkstra*
